@@ -1,0 +1,16 @@
+{
+  "botToken": "Your unique token here",
+  "prune": "false",
+  "prefix": "/",
+  "maxMessages": 5000,
+  "minTime": 480000,
+  "maxTime": 600000,
+  "wordsList": [
+    "xp",
+    "exp",
+    "collecting levels",
+    "experience",
+    "yeet"
+  ],
+  "channel_id": "566293511293632520"
+}
