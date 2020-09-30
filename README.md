@@ -1,7 +1,7 @@
 # discord-leveler-selfbot
 # This is a public open source discord selfbot made to level you on bots like mee6 or tatsumaki
 
-[![Discord Server](https://img.shields.io/discord/734794891258757160?label=Discord)](https://discord.gg/Pae9eTy)
+[![Discord Server](https://img.shields.io/discord/538686375877410836?color=yellow&label=Discord)](https://discord.gg/Pae9eTy)
 
 
 ## IMPORTANT
