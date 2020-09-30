@@ -34,3 +34,5 @@ and i do this all **for free**
 However,
 If you would be so kind to donate just 1$ it would help me pay my bills. 
 [paypal](paypal.me/TDeTandt)
+
+### Use this bot at your own risk, it is against the discord terms of service to use a selfbot.
