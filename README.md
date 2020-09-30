@@ -27,7 +27,7 @@ Join my [discord](https://discord.gg/Pae9eTy) server for the instructions on usa
 If you find any bugs please report them in my discord. The program is still very unpolished so there might still be bugs.
 Any suggestions can be posted in the discord
 
-## Buy me a coffe or help me pay my Uni!
+## Buy me a coffee or help me pay my Uni!
 
 Currently I follow Multimedia and communication technology in Uni and i am using a lot of my free time to develop this bot.
 and i do this all **for free**
