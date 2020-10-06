@@ -66,20 +66,4 @@ fs.readdir("./commands/", (err, files) => {
     });
 });
 
-
-/*{
-    "botToken": "mfa.4cIFqclHHe1x8vVqPsQQP3ItKilblWcXh-JlCAmAW38MZMa9GOOKm-k8vxkZ4rP2cnyfuV9HS-0pbbY-6bUd",
-    "prune": "false",
-    "prefix": "/",
-    "maxMessages":5000,  
-    "minTime": 180000,  
-    "maxTime": 360000,  
-    "wordsList":["xp","exp","collecting levels","experience"],  
-    "channel_id": "755556202699685958" 
-  }*/
-
-
-
-//console.log(client.config.botToken);
-
 client.login(config.botToken);
