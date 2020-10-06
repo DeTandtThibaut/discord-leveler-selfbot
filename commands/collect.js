@@ -19,6 +19,12 @@ exports.run = (client, message, args) => {
             sentMessages = sentMessages + 1;
             
 
+            console.log("Started Collecting with the following settings:".yellow)
+            console.log("Mintime:" + client.config.minTime)
+            console.log("Maxtime:"+ client.config.maxTime)
+            console.log("Maxmessages:"+ client.config.maxMessages)
+            console.log("Prune:"+ client.config.prune)
+
           
             console.log("\nMessage succesfully sent!".green);
             console.log("Time: " + new Date());

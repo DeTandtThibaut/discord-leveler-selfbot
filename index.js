@@ -27,7 +27,7 @@ let minTime = 1000;
 let maxTime = 10000;
 let wordsList = ["xp","exp","collecting levels","experience"];
 let addedword = "";
-let channel_id = 'use /settings channel to set this id before starting the script';
+let channel_id = '566293511293632520';
 
 client.commands = new Enmap();
 client.config = config;
