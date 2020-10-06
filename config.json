@@ -1,5 +1,5 @@
 {
-  "botToken": "mfa.l-1LhY-6olUrw7S8gQAPugDyK-7kvm4EW2gn4uDcfYrmEd6dj9lcgJvmt2EAuiDw3aceo2_Wf7tLQYmrXJKh",
+  "botToken": "your bot token here",
   "prune": "false",
   "prefix": "/",
   "maxMessages": 5000,
@@ -12,5 +12,5 @@
     "experience",
     "frfr"
   ],
-  "channel_id": "566293511293632520"
+  "channel_id": "your channel id he"
 }
