@@ -4,6 +4,9 @@
 [![Discord Server](https://img.shields.io/discord/538686375877410836?color=FFD700&label=Discord&logo=discord)](https://discord.gg/Pae9eTy)
 
 
+## Current version does NOT work as of now, the bot needs a recode in the new discord.js version 
+## Join my discord for updates on the recode
+
 ## IMPORTANT
 
 If you decide to use any code from this project your project **must** be open source. Also, if you if you modify this I would appreciate the changes being documented and the source code shared on GitHub.
